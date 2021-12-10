@@ -3,5 +3,5 @@
 
 <hr/>
 
-- [Remote Desktop Manager](https://remotedesktopmanager.com/)
-- [Burp Suite](https://portswigger.net/burp)
+- [Remote Desktop Manager](https://remotedesktopmanager.com/) (250$USD/user/year)
+- [Burp Suite](https://portswigger.net/burp) (399$USD/user/year)
